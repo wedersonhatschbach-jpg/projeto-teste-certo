@@ -11,11 +11,15 @@ padding: 20px;
 display: flex;
 }
 h1{
-
+color: azure;
+font-size: 30px;
 }
 input{
-
+width: 100px;
+width: 10px;
 }
 button{
-
+background-color: greenyellow;
+width: 50px;
+border-radius: 30px;
 }
