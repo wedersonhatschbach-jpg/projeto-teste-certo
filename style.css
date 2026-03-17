@@ -15,11 +15,11 @@ color: azure;
 font-size: 30px;
 }
 input{
-width: 100px;
-width: 10px;
+width: 400px;
+width: 150px;
 }
 button{
 background-color: greenyellow;
-width: 50px;
+width: 150px;
 border-radius: 30px;
 }
